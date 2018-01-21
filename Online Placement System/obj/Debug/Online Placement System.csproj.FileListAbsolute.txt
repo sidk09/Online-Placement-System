@@ -1,0 +1,19 @@
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\Online Placement System.exe.config
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\Online Placement System.exe
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\Online Placement System.pdb
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online Placement System.csprojResolveAssemblyReference.cache
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form1.resources
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form2.resources
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form3.resources
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Properties.Resources.resources
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online Placement System.csproj.GenerateResource.Cache
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online Placement System.exe
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online Placement System.pdb
+c:\users\mahe\documents\visual studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form4.resources
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\MySql.Data.dll
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\Oracle.Web.dll
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\bin\Debug\MySql.Data.xml
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form2_1.resources
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form6.resources
+C:\Users\MAHE\Documents\Visual Studio 2017\Projects\Online Placement System\Online Placement System\obj\Debug\Online_Placement_System.Form7.resources
